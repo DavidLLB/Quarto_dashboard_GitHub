@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_dashboard_GitHub",
+    "section": "",
+    "text": "Top 10 de Spotify al momento",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Este sitio es generado mediante R, RStudio, Quarto y GitHub\nPara aprender más sobre los sitios web de Quarto, visitar el enlace https://quarto.org/docs/websites.\nGit se encuentra preinstalado en MacOS y Linux. En caso de usar Windows, se puede descargar desde https://git-scm.com/\nGitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git. Puede accederse mediante la dirección https://github.com/\nR es un entorno y lenguaje de programación con un enfoque al análisis estadístico y generación de visualizaciones de datos. https://cran.rstudio.com/\nRStudio es un entorno de desarrollo integrado (IDE) para el lenguaje de programación R (aunque soporta Python, Ruby, Julia, entre otros), dedicado a la computación estadística y la generación de visualizaciones gráficas de datos. https://posit.co/download/rstudio-desktop/",
+    "crumbs": [
+      "Acerca"
+    ]
+  }
+]
