@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://DavidLLB.github.io/Quarto_dashboard_GitHub/dashboard.html</loc>
+    <lastmod>2025-02-26T10:25:08.378Z</lastmod>
+  </url>
+  <url>
     <loc>https://DavidLLB.github.io/Quarto_dashboard_GitHub/index.html</loc>
-    <lastmod>2025-02-25T11:19:36.799Z</lastmod>
+    <lastmod>2025-02-26T10:25:08.379Z</lastmod>
   </url>
   <url>
     <loc>https://DavidLLB.github.io/Quarto_dashboard_GitHub/about.html</loc>
-    <lastmod>2025-02-25T11:19:36.798Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DavidLLB.github.io/Quarto_dashboard_GitHub/dashboard.html</loc>
-    <lastmod>2025-02-25T11:19:36.798Z</lastmod>
+    <lastmod>2025-02-26T10:25:08.378Z</lastmod>
   </url>
 </urlset>
